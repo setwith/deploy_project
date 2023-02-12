@@ -47,9 +47,9 @@ gem 'bootsnap', require: false
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
+
 gem 'bcrypt_pbkdf', '>= 1.0', '< 2.0'
 gem 'ed25519', '>= 1.2', '< 2.0'
-gem 'net-ssh', '>= 6.0.2'
 
 gem 'net-imap', require: false
 gem 'net-pop', require: false
